@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+
+.addd{
+  display : flex;
+  flex-direction: row;
+  width: 70%;
+  margin-left:120px;
+
+}
+.tasks{
+  display : flex;
+  flex-direction: row;
+  justify-content: center;
+  column-gap: 10px;
+}
